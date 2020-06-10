@@ -1,3 +1,3 @@
 class ChangeDatatypeForBirthdate < ActiveRecord::
-  
+
 end
